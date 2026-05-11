@@ -1,4 +1,4 @@
-# PrescriptionReader.A
+# PrescriptionReader.AI
 
 AI-powered handwritten prescription digitizer for Indian healthcare.
 
