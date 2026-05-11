@@ -1,4 +1,4 @@
-# PrescriptionReader.A
+# PrescriptionReader.AI
 
 AI-powered handwritten prescription digitizer for Indian healthcare.
 
@@ -109,8 +109,6 @@ npm run dev
 docker-compose up --build
 ```
 
-Frontend → `localhost:3000`  
-Backend → `localhost:8000`
 
 ---
 
