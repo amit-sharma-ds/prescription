@@ -1,5 +1,5 @@
 # PrescriptionReader.AI
-Hackthon Project [Team members: Princy, Amit Sharma]
+`Hackthon Project [Team members: Princy, Amit Sharma]`
 
 AI-powered handwritten prescription digitizer for Indian healthcare.
 
